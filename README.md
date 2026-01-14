@@ -1,8 +1,8 @@
-# Cisco Packet Tracer - Network Fundamentals & Security Labs
+# Cisco Packet Tracer - Network Fundamentals
 
 Bu depo, bir Siber Güvenlik Uzmanı adayı olarak ağ temellerini, veri trafiği yönetimini ve güvenli ağ yapılandırmalarını öğrenmek amacıyla gerçekleştirdiğim uygulamalı laboratuvar çalışmalarını içermektedir.
 
-## 🚀 Proje İçerikleri
+## Proje İçerikleri
 
 ### 🏗 Lab 1: VLAN Yapılandırması (Segmentasyon ve Güvenlik)
 Ağ trafiğini mantıksal olarak bölümlere ayırarak güvenliği ve performansı artırmayı amaçlayan çalışmadır.
